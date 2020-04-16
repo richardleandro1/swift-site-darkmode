@@ -1,0 +1,13 @@
+ {
+    "name": "Dark Mode",
+    "description": "Shows a menu item",
+    "version": "0.3",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+    {
+        "matches": ["*://docs.swift.org/*"],
+        "js": ["index.js"]
+    }
+    ],
+    "manifest_version": 2
+}
