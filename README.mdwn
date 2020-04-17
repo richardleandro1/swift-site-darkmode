@@ -1,0 +1,12 @@
+# Simple extension for chrome, that turn up swift.org in dark theme
+
+Active in 4 steps 
+
+## How to use:  
+
+Go to chrome browser URL chrome://extensions/ -> active developer mode, now click on load unpacked and choose github project folder, and this is result! 
+
+![](1.gif)
+
+
+
